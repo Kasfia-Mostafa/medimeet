@@ -1,0 +1,362 @@
+[
+  {
+    "name": "Dr. Richard James",
+    "email": "richard@example.com",
+    "password": "richard@example.com",
+    "image": "doc1.png",
+    "speciality": "General physician",
+    "degree": "MBBS",
+    "experience": "5 Years",
+    "about": "Focused on preventive care and long-term health management.",
+    "available": true,
+    "fees": 50,
+    "address": {
+      "line1": "17th Cross, Richmond",
+      "line2": "London"
+    },
+    "date": 1704230400000,
+    "slots_booked": {}
+  },
+  {
+    "name": "Dr. Emily Larson",
+    "email": "emily@example.com",
+    "password": "emily@example.com",
+    "image": "doc2.png",
+    "speciality": "Dermatologist",
+    "degree": "MD",
+    "experience": "3 Years",
+    "about": "Specialist in medical dermatology and aesthetic skin health.",
+    "available": true,
+    "fees": 60,
+    "address": {
+      "line1": "21st Main, Brooklyn",
+      "line2": "New York"
+    },
+    "date": 1704230400000,
+    "slots_booked": {}
+  },
+  {
+    "name": "Dr. Sarah Stewart",
+    "email": "sarah@example.com",
+    "password": "sarah@example.com",
+    "image": "doc3.png",
+    "speciality": "Gastroenterologist",
+    "degree": "MBBS, MD",
+    "experience": "8 Years",
+    "about": "Expert in digestive disorders and nutritional wellness.",
+    "available": true,
+    "fees": 80,
+    "address": {
+      "line1": "West Side Gallery",
+      "line2": "Berlin"
+    },
+    "date": 1704230400000,
+    "slots_booked": {}
+  },
+  {
+    "name": "Dr. Christopher Lee",
+    "email": "chris@example.com",
+    "password": "chris@example.com",
+    "image": "doc4.png",
+    "speciality": "Neurologist",
+    "degree": "MD",
+    "experience": "12 Years",
+    "about": "Expertise in treating complex nervous system conditions.",
+    "available": true,
+    "fees": 150,
+    "address": {
+      "line1": "45 Park Avenue",
+      "line2": "New York"
+    },
+    "date": 1704230400000,
+    "slots_booked": {}
+  },
+  {
+    "name": "Dr. Jennifer Adams",
+    "email": "jennifer@example.com",
+    "password": "jennifer@example.com",
+    "image": "doc5.png",
+    "speciality": "Pediatrician",
+    "degree": "MBBS",
+    "experience": "4 Years",
+    "about": "Dedicated to providing compassionate care for children.",
+    "available": true,
+    "fees": 40,
+    "address": {
+      "line1": "12 Maple St",
+      "line2": "Toronto"
+    },
+    "date": 1704230400000,
+    "slots_booked": {}
+  },
+  {
+    "name": "Dr. Michael Wong",
+    "email": "michael@example.com",
+    "password": "michael@example.com",
+    "image": "doc6.png",
+    "speciality": "Cardiologist",
+    "degree": "MD",
+    "experience": "10 Years",
+    "about": "Specializes in heart disease prevention and cardiac health.",
+    "available": true,
+    "fees": 120,
+    "address": {
+      "line1": "88 Central Plaza",
+      "line2": "Hong Kong"
+    },
+    "date": 1704230400000,
+    "slots_booked": {}
+  },
+  {
+    "name": "Dr. Sofia Martinez",
+    "email": "sofia@example.com",
+    "password": "sofia@example.com",
+    "image": "doc7.png",
+    "speciality": "Gynecologist",
+    "degree": "MBBS, MS",
+    "experience": "6 Years",
+    "about": "Focuses on reproductive health and prenatal diagnostics.",
+    "available": true,
+    "fees": 70,
+    "address": {
+      "line1": "55 Sunset Blvd",
+      "line2": "Madrid"
+    },
+    "date": 1704230400000,
+    "slots_booked": {}
+  },
+  {
+    "name": "Dr. Robert Smith",
+    "email": "robert@example.com",
+    "password": "robert@example.com",
+    "image": "doc8.png",
+    "speciality": "Orthopedic",
+    "degree": "MBBS",
+    "experience": "7 Years",
+    "about": "Specialist in sports medicine and joint rehabilitation.",
+    "available": true,
+    "fees": 90,
+    "address": {
+      "line1": "90 King Street",
+      "line2": "Sydney"
+    },
+    "date": 1704230400000,
+    "slots_booked": {}
+  },
+  {
+    "name": "Dr. Anna Zaveri",
+    "email": "anna@example.com",
+    "password": "anna@example.com",
+    "image": "doc9.png",
+    "speciality": "Dermatologist",
+    "degree": "MD",
+    "experience": "5 Years",
+    "about": "Specialized in chronic skin conditions and laser therapy.",
+    "available": true,
+    "fees": 65,
+    "address": {
+      "line1": "Chancery Lane",
+      "line2": "London"
+    },
+    "date": 1704230400000,
+    "slots_booked": {}
+  },
+  {
+    "name": "Dr. Kevin White",
+    "email": "kevin@example.com",
+    "password": "kevin@example.com",
+    "image": "doc10.png",
+    "speciality": "General physician",
+    "degree": "MBBS",
+    "experience": "2 Years",
+    "about": "Passionate about community medicine and primary care.",
+    "available": true,
+    "fees": 30,
+    "address": {
+      "line1": "Oxford St",
+      "line2": "Manchester"
+    },
+    "date": 1704230400000,
+    "slots_booked": {}
+  },
+  {
+    "name": "Dr. Linda Garcia",
+    "email": "linda@example.com",
+    "password": "linda@example.com",
+    "image": "doc11.png",
+    "speciality": "Pediatrician",
+    "degree": "MD",
+    "experience": "9 Years",
+    "about": "Expert in pediatric growth and nutritional development.",
+    "available": true,
+    "fees": 55,
+    "address": {
+      "line1": "Valencia Way",
+      "line2": "Barcelona"
+    },
+    "date": 1704230400000,
+    "slots_booked": {}
+  },
+  {
+    "name": "Dr. James Bond",
+    "email": "james@example.com",
+    "password": "james@example.com",
+    "image": "doc12.png",
+    "speciality": "Neurologist",
+    "degree": "MBBS, MD",
+    "experience": "15 Years",
+    "about": "Senior consultant for brain and spinal cord disorders.",
+    "available": true,
+    "fees": 200,
+    "address": {
+      "line1": "Vauxhall Rd",
+      "line2": "London"
+    },
+    "date": 1704230400000,
+    "slots_booked": {}
+  },
+  {
+    "name": "Dr. Maria Chan",
+    "email": "maria@example.com",
+    "password": "maria@example.com",
+    "image": "doc13.png",
+    "speciality": "Gastroenterologist",
+    "degree": "MD",
+    "experience": "4 Years",
+    "about": "Expert in liver health and advanced endoscopy.",
+    "available": true,
+    "fees": 75,
+    "address": {
+      "line1": "Orchard Rd",
+      "line2": "Singapore"
+    },
+    "date": 1704230400000,
+    "slots_booked": {}
+  },
+  {
+    "name": "Dr. David Miller",
+    "email": "david@example.com",
+    "password": "david@example.com",
+    "image": "doc14.png",
+    "speciality": "Cardiologist",
+    "degree": "MBBS, MD",
+    "experience": "11 Years",
+    "about": "Highly skilled in non-invasive cardiac imaging.",
+    "available": true,
+    "fees": 130,
+    "address": {
+      "line1": "Michigan Ave",
+      "line2": "Chicago"
+    },
+    "date": 1704230400000,
+    "slots_booked": {}
+  },
+  {
+    "name": "Dr. Susan He",
+    "email": "susan@example.com",
+    "password": "susan@example.com",
+    "image": "doc15.png",
+    "speciality": "Gynecologist",
+    "degree": "MD",
+    "experience": "14 Years",
+    "about": "Specialist in laparoscopic surgery and fertility.",
+    "available": true,
+    "fees": 110,
+    "address": {
+      "line1": "Wall Street",
+      "line2": "New York"
+    },
+    "date": 1704230400000,
+    "slots_booked": {}
+  },
+  {
+    "name": "Dr. Paul Walker",
+    "email": "paul@example.com",
+    "password": "paul@example.com",
+    "image": "doc16.png",
+    "speciality": "Orthopedic",
+    "degree": "MBBS",
+    "experience": "3 Years",
+    "about": "Focused on musculoskeletal trauma and rehab.",
+    "available": true,
+    "fees": 50,
+    "address": {
+      "line1": "Beach Road",
+      "line2": "Miami"
+    },
+    "date": 1704230400000,
+    "slots_booked": {}
+  },
+  {
+    "name": "Dr. Lisa Ray",
+    "email": "lisa@example.com",
+    "password": "lisa@example.com",
+    "image": "doc17.png",
+    "speciality": "Dermatologist",
+    "degree": "MD",
+    "experience": "7 Years",
+    "about": "Expert in surgical and cosmetic dermatology.",
+    "available": true,
+    "fees": 95,
+    "address": {
+      "line1": "Beverly Hills",
+      "line2": "Los Angeles"
+    },
+    "date": 1704230400000,
+    "slots_booked": {}
+  },
+  {
+    "name": "Dr. Ryan Gosling",
+    "email": "ryan@example.com",
+    "password": "ryan@example.com",
+    "image": "doc18.png",
+    "speciality": "General physician",
+    "degree": "MBBS",
+    "experience": "4 Years",
+    "about": "Dedicated to family medicine and holistic wellness.",
+    "available": true,
+    "fees": 45,
+    "address": {
+      "line1": "Main Street",
+      "line2": "Vancouver"
+    },
+    "date": 1704230400000,
+    "slots_booked": {}
+  },
+  {
+    "name": "Dr. Emma Watson",
+    "email": "emma@example.com",
+    "password": "emma@example.com",
+    "image": "doc19.png",
+    "speciality": "Pediatrician",
+    "degree": "MD",
+    "experience": "6 Years",
+    "about": "Advocate for adolescent health and pediatrics.",
+    "available": true,
+    "fees": 60,
+    "address": {
+      "line1": "George St",
+      "line2": "Edinburgh"
+    },
+    "date": 1704230400000,
+    "slots_booked": {}
+  },
+  {
+    "name": "Dr. Tom Hardy",
+    "email": "tom@example.com",
+    "password": "tom@example.com",
+    "image": "doc20.png",
+    "speciality": "Neurologist",
+    "degree": "MBBS",
+    "experience": "8 Years",
+    "about": "Expert in migraine management and sleep studies.",
+    "available": true,
+    "fees": 140,
+    "address": {
+      "line1": "Baker St",
+      "line2": "London"
+    },
+    "date": 1704230400000,
+    "slots_booked": {}
+  }
+]

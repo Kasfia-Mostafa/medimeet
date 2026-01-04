@@ -1,0 +1,34 @@
+# MediMeet Backend - Dependency Requirements
+# Doctor Appointment Booking System
+# Author: Kasfia Mostafa
+# Version: 1.0.0
+# Date: January 4, 2026
+
+# Installation Instructions:
+# 1. Make sure you have Node.js installed (v14 or higher recommended)
+# 2. Navigate to the backend directory
+# 3. Run: npm install
+#
+# This will install all dependencies listed below
+
+# Production Dependencies
+bcrypt@^6.0.0                 # Password hashing and encryption
+cloudinary@^2.6.1             # Cloud-based image and video management
+cors@^2.8.5                   # Cross-Origin Resource Sharing middleware
+dotenv@^16.5.0                # Environment variable management
+express@^5.1.0                # Web application framework
+jsonwebtoken@^9.0.2           # JSON Web Token implementation
+mongoose@^8.15.1              # MongoDB object modeling
+multer@^2.0.0                 # Middleware for handling multipart/form-data
+validator@^13.15.0            # String validation and sanitization
+
+# Development Dependencies
+nodemon@^3.1.10               # Auto-restart server during development
+
+# Node.js Version Requirement
+# Node.js: v14.0.0 or higher recommended
+
+# Additional Setup Required:
+# - MongoDB connection string (in .env file)
+# - Cloudinary credentials (in .env file)
+# - JWT secret key (in .env file)

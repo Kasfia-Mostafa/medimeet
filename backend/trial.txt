@@ -1,0 +1,12 @@
+Backend Run : node server.js
+Frontend Run : npm run dev
+Admin Frontend Run : npm run dev
+
+ADMIN_EMAIL=kasfiamostafa@gmail.com
+ADMIN_PASSWORD=kasfiamostafa@gmail.com
+
+User_EMAIL=kasfia@gmail.com
+User_PASSWORD=kasfia@gmail.com
+
+Doctor_EMAIL=emily@example.com
+Doctor_PASSWORD=emily@example.com
