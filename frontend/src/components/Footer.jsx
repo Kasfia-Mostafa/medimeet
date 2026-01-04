@@ -36,7 +36,7 @@ const Footer = () => {
         <hr />
         <p className="py-5 text-sm text-center ">
           Copyright © {new Date().getFullYear()}{" "}
-          <a className="hover:text-primary font-bold" href="">Kasfia Mostafa</a>.
+          <a className="hover:text-primary font-bold" href="">Kasfia Mostafa</a>
         </p>
       </div>
     </div>
