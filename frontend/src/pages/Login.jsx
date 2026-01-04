@@ -136,7 +136,7 @@ const Login = () => {
       <p className="mt-10 text-zinc-600 text-center w-full">
         Are you a Doctor or Admin?{" "}
         <a
-          href="https://mahmud-doctor-mern-admin.vercel.app/"
+          href="http://localhost:5174"
           className="text-primary underline"
           target="_blank"
           rel="noopener noreferrer"
