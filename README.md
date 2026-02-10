@@ -10,6 +10,10 @@
 
 The **Doctor Appointment Booking System** is a full-stack web application built using the **MERN Stack**: **MongoDB**, **Express.js**, **React.js**, and **Node.js**. This platform streamlines the process of booking medical appointments online by enabling **Admins**, **Doctors**, and **Users** to manage profiles, schedules, and appointments with ease.
 
+![image alt](https://github.com/Kasfia-Mostafa/medimeet/blob/main/Images/Web/Screenshot%202026-01-04%20232242.png?raw=true)
+![image alt](https://github.com/Kasfia-Mostafa/medimeet/blob/main/Images/Admin/Screenshot%202026-01-04%20233324.png?raw=true)
+![image alt](https://github.com/Kasfia-Mostafa/medimeet/blob/main/Images/Doctor/Screenshot%202026-01-04%20233033.png?raw=true)
+
 The backend features **secure authentication**, **image upload with Cloudinary**, **appointment management**, and **role-based dashboards**, while the frontend (React) provides a responsive and interactive UI.
 
 ---
